@@ -3,7 +3,7 @@ import Detail from "./components/detail/Detail"
 import List from "./components/list/list"
 import Login from "./components/login/Login"
 import Notification from "./components/notification/Notification"
-
+import Login from "./components/login/Login"
 
 const App = () => {
 
